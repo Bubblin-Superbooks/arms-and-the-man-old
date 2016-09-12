@@ -5,6 +5,7 @@
     "JS": "js",
     "HEAD": "html"
   },
-  "name": "arms-and-the-man",
-  "type": "text"
+  "name": "Arms and The Man",
+  "type": "text",
+  "book_id": 346
 }

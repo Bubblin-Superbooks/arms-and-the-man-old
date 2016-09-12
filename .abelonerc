@@ -3,6 +3,6 @@
   "basename": "3618-h",
   "dir": "http://www.gutenberg.org/files/3618",
   "compressor": ".zip",
-  "START_PAGE": "9",
+  "START_PAGE": "7",
   "repo_url": "https://github.com/marvindanig/arms-and-the-man.git"
 }
